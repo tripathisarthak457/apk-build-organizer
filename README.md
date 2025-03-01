@@ -146,11 +146,6 @@ Where:
 - Open an **issue** if you find a bug  
 - Submit a **pull request** if you have a fix or enhancement  
 
----
-
-## 📜 License  
-
-🔓 Open-source under the **MIT License**  
 
 ---
 
